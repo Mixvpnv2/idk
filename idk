@@ -93,29 +93,29 @@
  task.spawn(function()
     local textList = {
         -- Original
-        '', 'b', 'br', 'bro', 'bro🤣', 'bro🤣🤣.', 'bro🤣🤣🤣.<font color="rgb(245, 66, 230)">s</font>',
-        'bro🤣.<font color="rgb(245, 66, 230)"></font> ', 'anti.<font color="rgb(245, 66, 230)">sol</font> ',
-        'bro🤣.<font color="rgb(245, 66, 230)">http</font> ', 'anti.<font color="rgb(245, 66, 230)">solut</font> ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https:</font> ', 'anti.<font color="rgb(245, 66, 230)">solutio</font> ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://</font> ', 'anti.<font color="rgb(245, 66, 230)">solutions</font> ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://di</font> | ', 'anti.<font color="rgb(245, 66, 230)">solutions</font> | P ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://disc</font> | Pr ', 'anti.<font color="rgb(245, 66, 230)">solutions</font> | Pro ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://discor</font> | Proj ', 'anti.<font color="rgb(245, 66, 230)">solutions</font> | Proje ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.</font> | Projec ', 'anti.<font color="rgb(245, 66, 230)">solutions</font> | Project ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg</font> | Project D ', 'anti.<font color="rgb(245, 66, 230)">solutions</font> | Project De ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/x</font> | Project Del ', 'anti.<font color="rgb(245, 66, 230)">solutions</font> | Project Delt ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/xbv</font> | Project Delta ', 'anti.<font color="rgb(245, 66, 230)">solutions</font> | Project Delt ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/xbvDU</font> | Project Del ', 'anti.<font color="rgb(245, 66, 230)">solutions</font> | Project De ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/xbvDUA8</font> | Project De ', 'anti.<font color="rgb(245, 66, 230)">solutions</font> | Project D ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/xbvDUA8eC</font> | Project ', 'anti.<font color="rgb(245, 66, 230)">solutions</font> | Projec ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/xbvDUA8eC</font> | Proje  ', 'anti.<font color="rgb(245, 66, 230)">solutions</font> | Proj ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/xbvDUA8</font> | Pro ', 'anti.<font color="rgb(245, 66, 230)">solutions</font> | Pr ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/xbvDU</font> | P ', 'anti.<font color="rgb(245, 66, 230)">solutions</font> | ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/xbv</font> ', 'anti.<font color="rgb(245, 66, 230)">solution</font> ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/x</font>', 'anti.<font color="rgb(245, 66, 230)">soluti</font> ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg</font> ', 'anti.<font color="rgb(245, 66, 230)">solu</font> ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.</font> ', 'anti.<font color="rgb(245, 66, 230)">so</font> ',
-        'bro🤣.<font color="rgb(245, 66, 230)">https://discor</font> ', 'anti.', 'anti', 'ant', 'an', 'a',
+        '', 'b', 'br', 'bro', 'bro🤣', 'bro🤣🤣.', 'bro🤣🤣🤣.<font color="rgb(245, 66, 230)">p</font>',
+        'bro🤣.<font color="rgb(245, 66, 230)"></font> ', 'bro🤣.<font color="rgb(245, 66, 230)">pro</font> ',
+        'bro🤣.<font color="rgb(245, 66, 230)">http</font> ', 'bro🤣.<font color="rgb(245, 66, 230)">proga</font> ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https:</font> ', 'bro🤣.<font color="rgb(245, 66, 230)">progame</font> ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://</font> ', 'bro🤣.<font color="rgb(245, 66, 230)">progamekd</font> ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://di</font> | ', 'bro🤣.<font color="rgb(245, 66, 230)">progamekd</font> | P ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://disc</font> | Pr ', 'bro🤣.<font color="rgb(245, 66, 230)">progamekd</font> | Pro ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://discor</font> | Proj ', 'bro🤣.<font color="rgb(245, 66, 230)">progamekd</font> | Proje ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.</font> | Projec ', 'bro🤣.<font color="rgb(245, 66, 230)">progamekd</font> | Project ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg</font> | Project D ', 'bro🤣.<font color="rgb(245, 66, 230)">progamekd</font> | Project De ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/x</font> | Project Del ', 'bro🤣.<font color="rgb(245, 66, 230)">progamekd</font> | Project Delt ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/xbv</font> | Project Delta ', 'bro🤣.<font color="rgb(245, 66, 230)">progamekd</font> | Project Delt ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/xbvDU</font> | Project Del ', 'bro🤣.<font color="rgb(245, 66, 230)">progamekd</font> | Project De ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/xbvDUA8</font> | Project De ', 'bro🤣.<font color="rgb(245, 66, 230)">progamekd</font> | Project D ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/xbvDUA8eC</font> | Project ', 'bro🤣.<font color="rgb(245, 66, 230)">progamekd</font> | Projec ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/xbvDUA8eC</font> | Proje  ', 'bro🤣.<font color="rgb(245, 66, 230)">progamekd</font> | Proj ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/xbvDUA8</font> | Pro ', 'bro🤣.<font color="rgb(245, 66, 230)">progamekd</font> | Pr ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/xbvDU</font> | P ', 'bro🤣.<font color="rgb(245, 66, 230)">progamekd</font> | ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/xbv</font> ', 'bro🤣.<font color="rgb(245, 66, 230)">progamek</font> ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg/x</font>', 'bro🤣.<font color="rgb(245, 66, 230)">progam</font> ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.gg</font> ', 'bro🤣.<font color="rgb(245, 66, 230)">prog</font> ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://discord.</font> ', 'bro🤣.<font color="rgb(245, 66, 230)">pr</font> ',
+        'bro🤣.<font color="rgb(245, 66, 230)">https://discor</font> ', 'bro🤣.', 'bro🤣', 'bro', 'br', 'b',
         -- Bozos
         'B', 'BR', 'BRO',
         'LL', 'L',
@@ -123,10 +123,10 @@
         'T', 'TF', 'TFZ', 'TFZ?', 'TFZ??',
         'TFZ??', 'TFZ?', 'TFZ', 'TF', 'T',
         -- Credits
-        'M', 'Ma', 'Mad', 'Made', 'Made B', 'Made By', 'Made By:', 'Made By: l', 'Made By: lk', 'Made By: lks',
-        'Made By: lksi', 'Made By: lksiw', 'Made By: lksiwj', 'Made By: lksiwja', 'Made by: lksiwjas', 'Made By: lksiwjas.',
-        'Made By: lksiwjas', 'Made By: lksiwja', 'Made By: lksiwj', 'Made By: lksiw', 'Made By: lksi', 'Made By: lks', 'Made By: lk',
-        'Made By: l', 'Made By:', 'Made By', 'Made B', 'Made', 'Mad', 'Ma', 'M'
+        'M', 'Ma', 'Mad', 'Made', 'Made B', 'Made By', 'Made By:', 'Made By: m', 'Made By: mi', 'Made By: mix',
+        'Made By: mixv', 'Made By: mixvp', 'Made By: mixvpn', 'Made By: mixvpn(', 'Made by: mixvpn(:', 'Made By: mixvpn(:.',
+        'Made By: mixvpn(:', 'Made By: mixvpn(', 'Made By: mixvpn', 'Made By: mixvp', 'Made By: mixv', 'Made By: mix', 'Made By: mi',
+        'Made By: m', 'Made By:', 'Made By', 'Made B', 'Made', 'Mad', 'Ma', 'M'
     }
     while wait(0.2) do
         if library.AnimatedText then
@@ -324,7 +324,7 @@ tobble.Size = UDim2.new(0, 11, 0, 11)
  
 mid.Name = "mid"
 mid.Parent = tobble
-mid.BackgroundColor3 = Color3.fromRGB(245, 66, 230)
+mid.BackgroundColor3 = Color3.new(0.000000, 0.337255, 0.960784)
 mid.BorderColor3 = Color3.fromRGB(20,20,20)
 mid.BorderSizePixel = 2
 mid.Size = UDim2.new(0, 12, 0, 12)
@@ -420,7 +420,7 @@ function toggle:addKeybind(args)
    keybind.Size = UDim2.new(0, 51, 0, 10)
  
    button.Parent = keybind
-   button.BackgroundColor3 = Color3.fromRGB(187, 131, 255)
+   button.BackgroundColor3 = Color3.new(0.254902, 0.819608, 0.650980)
    button.BackgroundTransparency = 1.000
    button.BorderSizePixel = 0
    button.Position = UDim2.new(-0.270902753, 0, 0, 0)
@@ -507,7 +507,7 @@ function toggle:addColorpicker(args)
  
    mid.Name = "mid"
    mid.Parent = colorpicker
-   mid.BackgroundColor3 = Color3.fromRGB(245, 66, 230)
+   mid.BackgroundColor3 = Color3.new(0.090196, 0.694118, 0.713725)
    mid.BorderColor3 = Color3.fromRGB(25,25,25)
    mid.BorderSizePixel = 2
    mid.Size = UDim2.new(1, 0, 1, 0)
