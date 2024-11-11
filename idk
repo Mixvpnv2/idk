@@ -93,7 +93,7 @@
  task.spawn(function()
     local textList = {
         -- Original
-        '', 'b', 'br', 'bro', 'bro🤣', 'bro🤣🤣.', 'bro🤣🤣🤣<font color="rgb(245, 66, 230)"></font>',
+        '', 'b', 'br', 'bro', 'bro🤣', 'bro🤣', 'bro🤣<font color="rgb(245, 66, 230)"></font>',
         'bro🤣<font color="rgb(245, 66, 230)"></font> ', 'bro🤣<font color="rgb(245, 66, 230)"></font> ',
         'bro🤣<font color="rgb(245, 66, 230)"></font> ', 'bro🤣<font color="rgb(245, 66, 230)"></font> ',
         'bro🤣<font color="rgb(245, 66, 230)"></font> ', 'bro🤣<font color="rgb(245, 66, 230)"></font> ',
