@@ -1871,7 +1871,7 @@ function contains(list, x)
 if v == x then return true end
 end return false end
 function library:createConfig()
-   makefolder("idkidk")
+   makefolder("mixvpn")
    local name = library.flags["config_name"]
    if contains(library.options["config_box"].values, name) then return library:Notify(name..".cfg already exists!", 5) end
    if name == "" then return library:Notify("You need to put a name in!", 5) end
@@ -1889,7 +1889,7 @@ library:refreshConfigs()
    end
  
    function library:saveConfig()
-makefolder("anti.solutions")
+makefolder("mixvpn")
 local name = library.flags["config_box"]
 local jig = {}
 for i,v in next, library.flags do
