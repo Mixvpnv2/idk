@@ -109,7 +109,7 @@
         'bro🤣<font color="rgb(245, 66, 230)"></font> | Project De ', 'bro🤣<font color="rgb(245, 66, 230)"></font> | Project D ',
         'bro🤣<font color="rgb(245, 66, 230)"></font> | Project ', 'bro🤣<font color="rgb(245, 66, 230)"></font> | Projec ',
         'bro🤣<font color="rgb(245, 66, 230)"></font> | Proje  ', 'bro🤣<font color="rgb(245, 66, 230)"></font> | Proj ',
-        'bro🤣<font color="rgb(245, 66, 230)"></font> | Pro ', 'bro🤣<font color="rgb(245, 66, 230)">p</font> | Pr ',
+        'bro🤣<font color="rgb(245, 66, 230)"></font> | Pro ', 'bro🤣<font color="rgb(245, 66, 230)"></font> | Pr ',
         'bro🤣<font color="rgb(245, 66, 230)"></font> | P ', 'bro🤣<font color="rgb(245, 66, 230)"></font> | ',
         'bro🤣<font color="rgb(245, 66, 230)"></font> ', 'bro🤣<font color="rgb(245, 66, 230)"></font> ',
         'bro🤣<font color="rgb(245, 66, 230)"></font>', 'bro🤣<font color="rgb(245, 66, 230)"></font> ',
@@ -118,7 +118,7 @@
         'bro🤣=<font color="rgb(245, 66, 230)"></font> ', 'bro🤣', 'bro🤣', 'bro', 'br', 'b',
         -- Bozos
         'B', 'BR', 'BRO',
-        'LL', 'L',
+        'RO', 'O',
         -- Ak 47
         'T', 'TF', 'TFZ', 'TFZ?', 'TFZ??',
         'TFZ??', 'TFZ?', 'TFZ', 'TF', 'T',
@@ -135,7 +135,7 @@
                 wait(0.2)
             end 
         else
-            menu.bg.pre.Text = 'IDKNOOB.<font color="rgb(245, 66, 230)">broWTF</font> | <font color="rgb(245, 66, 230)">Project delta???</font>'
+            menu.bg.pre.Text = 'BackZ.<font color="rgb(245, 66, 230)">xyz</font> | <font color="rgb(245, 66, 230)">Project delta???</font>'
         end
     end
  end) 
