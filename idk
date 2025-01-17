@@ -565,7 +565,7 @@ function toggle:addColorpicker(args)
  
    picker.Name = "picker"
    picker.Parent = main
-   picker.BackgroundColor3 = Color3.fromRGB(232, 0, 255)
+   picker.BackgroundColor3 = Color3.new(1.000000, 1.000000, 1.000000)
    picker.BorderColor3 = Color3.fromRGB(0, 0, 0)
    picker.BorderSizePixel = 0
    picker.Size = UDim2.new(1, 0, 1, 0)
