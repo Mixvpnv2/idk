@@ -610,7 +610,7 @@ function toggle:addColorpicker(args)
  
    hue.Name = "hue"
    hue.Parent = main_2
-   hue.BackgroundColor3 = Color3.fromRGB(255, 0, 178)
+   hue.BackgroundColor3 = Color3.new(1.000000, 1.000000, 1.000000)
    hue.BorderColor3 = Color3.fromRGB(0, 0, 0)
    hue.BorderSizePixel = 0
    hue.Size = UDim2.new(0, 20, 1, 0)
